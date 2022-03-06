@@ -7,8 +7,8 @@
 :root{
     --primary-green:#5ECE7B;
     --dark-text:#1D1F22;
-    --roboto-font:font-family: 'Roboto', sans-serif;;
-    --relway-font:font-family: 'Raleway', sans-serif;;
+    --roboto-font:font-family: 'Roboto', sans-serif;
+    --relway-font:font-family: 'Raleway', sans-serif;
 }
 a{
     text-decoration: none;
