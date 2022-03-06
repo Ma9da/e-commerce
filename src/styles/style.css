@@ -20,6 +20,9 @@ img{
     display: block;
     width: 100%;
 }
+body{
+    font-family: var(--relway-font);
+}
 /***** general *****/
 .container {
     width: 90%;
@@ -35,7 +38,6 @@ img{
 .primary-btn, .secondary-btn{
     padding: 1rem 2rem 1rem 2rem;
     font-weight: 600;
-    font-family: var(--relway-font);
 }
 .primary-btn{
     border: none;
@@ -49,7 +51,6 @@ img{
 }
 .title{
     color: var(--dark-text);
-    font-family: var(--relway-font);
     font-size: 2.625rem;
 }
 .icon{
