@@ -12,6 +12,14 @@ function Navbar() {
                 <figure className="navbarLogo">
                     <img src="" alt="" />
                 </figure>
+                <div className="navbarIcons">
+                    <select name="currency" id="currency">
+                        <option value="$">$ USD</option>
+                        <option value="€">€ EUR</option>
+                        <option value="¥">¥ JPY</option>
+                    </select>
+                    <img src="" alt="" />
+                </div>
             </header>
         </>
     )
